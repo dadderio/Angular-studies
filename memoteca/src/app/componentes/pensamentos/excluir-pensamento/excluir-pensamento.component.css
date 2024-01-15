@@ -4,10 +4,10 @@
   min-width: 360px;
   min-height: 150px;
   position: fixed;
-  left: 50%;
   padding: 24px;
-  top: 50%;
-  transform: translate(-50%, -50%);
+  left: 50%;/*centraliza a caixa*/
+  top: 50%;/*centraliza a caixa*/
+  transform: translate(-50%, -50%);/*centraliza a caixa*/
   z-index: 11;
   font-size: 1.5rem;
   text-align: center;

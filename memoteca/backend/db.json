@@ -1,34 +1,16 @@
 {
   "pensamentos": [
     {
-      "id": 2,
-      "conteudo": "Estudando Angular com Fé",
-      "autoria": "Dev ElaineF",
-      "modelo": "modelo2"
+      "id": 7,
+      "conteudo": "Eu te amo",
+      "autoria": "Elaine",
+      "modelo": "modelo3"
     },
     {
-      "id": 3,
-      "conteudo": "Angular é o melhor, também acho",
-      "autoria": "Dev Alura assim ela disse",
-      "modelo": "modelo1"
-    },
-    {
-      "conteudo": "Aprendendo Angular com Nay da Alura",
-      "autoria": "Dev Elaine (editado)",
-      "modelo": "modelo1",
-      "id": 6
-    },
-    {
-      "conteudo": "Testando (Editado)",
-      "autoria": "Elaine (Editado)",
+      "conteudo": "Renato ama a mamãe Elaine e o Juca",
+      "autoria": "filho renato",
       "modelo": "modelo2",
-      "id": 7
-    },
-    {
-      "conteudo": "testetete",
-      "autoria": "tete",
-      "modelo": "modelo2",
-      "id": 8
+      "id": 10
     }
   ]
 }
