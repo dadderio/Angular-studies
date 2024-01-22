@@ -4,49 +4,64 @@
       "id": 7,
       "conteudo": "Eu te amo",
       "autoria": "Elaine",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "conteudo": "Renato ama a mamãe Elaine e o Juca",
       "autoria": "filho renato",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 10
     },
     {
-      "conteudo": "teste2",
-      "autoria": "tasdfasdf",
-      "modelo": "modelo1",
-      "id": 11
-    },
-    {
-      "conteudo": "asdfasdf",
-      "autoria": "asdfasdf",
-      "modelo": "modelo2",
-      "id": 12
-    },
-    {
-      "conteudo": "asdfadhg",
-      "autoria": "asdfasdfasdf",
-      "modelo": "modelo1",
-      "id": 13
-    },
-    {
-      "conteudo": "gggggggggggg",
-      "autoria": "ggggggggggddddddddddddddd",
+      "conteudo": "Eu não sei mãe",
+      "autoria": "filho renato",
       "modelo": "modelo3",
-      "id": 14
+      "favorito": true,
+      "id": 17
     },
     {
-      "conteudo": "asdfasdf",
-      "autoria": "sdfasdf",
+      "conteudo": "que saco, mãe",
+      "autoria": "filho renato",
       "modelo": "modelo2",
-      "id": 15
+      "favorito": false,
+      "id": 18
     },
     {
-      "conteudo": "oooooooooooooo",
-      "autoria": "eeeeeeeeeeee",
+      "conteudo": "fica quieto, que eu quero estudar",
+      "autoria": "mãe elaine",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 19
+    },
+    {
+      "conteudo": "Eu não sei de nada",
+      "autoria": "filho renato",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 20
+    },
+    {
+      "conteudo": "au au au au",
+      "autoria": "filho juca",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 21
+    },
+    {
+      "conteudo": "Hoje quero ir ao shopping em Santo André",
+      "autoria": "filho renato",
       "modelo": "modelo3",
-      "id": 16
+      "favorito": false,
+      "id": 22
+    },
+    {
+      "conteudo": "hoje passeamos com Ana e Mariana no shopping ABC",
+      "autoria": "renato e elaine",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 23
     }
   ]
 }
